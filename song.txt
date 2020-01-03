@@ -10,3 +10,6 @@ We're marching into destiny
 
 Hello World!
 Happy New Year!
+
+Hello Barcelona!
+Hello Moscow!
